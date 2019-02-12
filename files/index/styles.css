@@ -59,7 +59,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:58px;
+  width:100px;
   height:21px;
 }
 #u2 {
@@ -67,7 +67,7 @@
   position:absolute;
   left:20px;
   top:25px;
-  width:57px;
+  width:99px;
   height:20px;
   font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
   font-weight:500;
@@ -78,7 +78,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:99px;
   white-space:nowrap;
 }
 #u3 {
